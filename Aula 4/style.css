@@ -1,0 +1,9 @@
+body{
+    color: grey; 
+    background-image:linear-gradient(red, yellow);
+}
+
+p{
+    color: blueviolet;
+     background-color:red;
+}
