@@ -1,9 +1,22 @@
 body{
     color: grey; 
-    background-image:linear-gradient(red, yellow);
+    /*background-image:linear-gradient(violet, white, red);*/
+    background-image: url("https://prouni2022.com.br/wp-content/uploads/2021/02/senai-cursos-2022.jpg");
+    background-size: cover;
+    background-position: right bottom;
 }
 
-p{
+p, ul{
     color: blueviolet;
      background-color:red;
+     font-size: 20px; /* Comentários no css*/
+     text-align: center;
+
+}
+/*Título{
+   font-size:
+}
+
+#seletor{/*class*
+    
 }
